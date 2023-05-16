@@ -1244,11 +1244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Groups\\4\\שווב רחל\\עותק שני של פרקטיקוד\\Prakticode server\\ToDoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\hitmachut\\Desktop\\TodoesList\\Prakticode server\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "Y:\\Groups\\4\\שווב רחל\\עותק שני של פרקטיקוד\\Prakticode server\\ToDoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\hitmachut\\Desktop\\TodoesList\\Prakticode server\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-      "outputPath": "Y:\\Groups\\4\\שווב רחל\\עותק שני של פרקטיקוד\\Prakticode server\\ToDoApi\\obj\\",
+      "outputPath": "C:\\Users\\hitmachut\\Desktop\\TodoesList\\Prakticode server\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
